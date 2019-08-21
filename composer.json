@@ -1,0 +1,19 @@
+{
+    "name": "jihan\/junit-laravel",
+    "description": "this is a laravel farmework unit test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jihan",
+            "email": "hjh1170459853@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Jihan\\JunitLaravel\\": "src"
+        }
+    }
+}
